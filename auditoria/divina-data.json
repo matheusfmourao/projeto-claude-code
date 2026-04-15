@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-04-15T23:40:32.684Z",
+  "site": "https://www.divinafitness.com.br",
+  "pages": {
+    "home": {
+      "title": "Atara Fitness | Loja Online",
+      "metaDescription": "Um look novo é o seu melhor pré treino. Acreditamos que a roupa que você veste é uma ferramenta poderosa, uma segunda pele que te prepara para qualquer desafio.",
+      "ogTags": {
+        "og:type": "website",
+        "og:title": "Atara Fitness | Loja Online",
+        "og:image": "http://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:secure_url": "https://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:width": "2528",
+        "og:image:height": "1160",
+        "og:description": "Um look novo é o seu melhor pré treino. Acreditamos que a roupa que você veste é uma ferramenta poderosa, uma segunda pele que te prepara para qualquer desafio.",
+        "og:url": "https://www.divinafitness.com.br/",
+        "og:site_name": "atarafitness"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Página Inicial",
+              "item": "https://www.divinafitness.com.br"
+            }
+          ]
+        },
+        [
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "atarafitness",
+            "url": "https://www.divinafitness.com.br",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.divinafitness.com.br/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "atarafitness",
+            "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01_1.png?v=1751676089&width=5760",
+            "url": "https://www.divinafitness.com.br"
+          }
+        ],
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "atarafitness",
+          "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01.png?v=1748716274&width=2084",
+          "url": "https://www.divinafitness.com.br"
+        }
+      ],
+      "imgsWithoutAlt": 32,
+      "totalImages": 71,
+      "h1": [
+        "atarafitness"
+      ],
+      "h2": [
+        "o que você está procurando?",
+        "Nossa seleção all black",
+        "siga @atara.com.br NO INSTAGRAM"
+      ],
+      "url": "https://www.divinafitness.com.br/",
+      "label": "Home",
+      "consoleErrors": 9
+    },
+    "colecao": {
+      "title": "Coleções",
+      "metaDescription": "Um look novo é o seu melhor pré treino. Acreditamos que a roupa que você veste é uma ferramenta poderosa, uma segunda pele que te prepara para qualquer desafio.",
+      "ogTags": {
+        "og:type": "website",
+        "og:title": "Coleções",
+        "og:image": "http://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:secure_url": "https://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:width": "2528",
+        "og:image:height": "1160",
+        "og:description": "Um look novo é o seu melhor pré treino. Acreditamos que a roupa que você veste é uma ferramenta poderosa, uma segunda pele que te prepara para qualquer desafio.",
+        "og:url": "https://www.divinafitness.com.br/collections",
+        "og:site_name": "atarafitness"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Página Inicial",
+              "item": "https://www.divinafitness.com.br"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "atarafitness",
+          "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01.png?v=1748716274&width=2084",
+          "url": "https://www.divinafitness.com.br"
+        }
+      ],
+      "imgsWithoutAlt": 1,
+      "totalImages": 29,
+      "h1": [
+        "Coleções"
+      ],
+      "h2": [
+        "3 peças por R$ 119,90 - Atara Fitness",
+        "All Black",
+        "Bermudas",
+        "Bermudas e Shorts",
+        "Blusas",
+        "Blusas casuais",
+        "Blusas e Regatas",
+        "Blusas e Regatas",
+        "Coleção Cappuccino",
+        "Coleção Essence"
+      ],
+      "url": "https://www.divinafitness.com.br/collections",
+      "label": "Coleções",
+      "consoleErrors": 19
+    },
+    "categoria": {
+      "title": "404 – Não Encontrado",
+      "metaDescription": "",
+      "ogTags": {
+        "og:type": "website",
+        "og:title": "404 – Não Encontrado",
+        "og:image": "http://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:secure_url": "https://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:width": "2528",
+        "og:image:height": "1160",
+        "og:url": "https://www.divinafitness.com.br/404",
+        "og:site_name": "atarafitness"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Página Inicial",
+              "item": "https://www.divinafitness.com.br"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "atarafitness",
+          "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01.png?v=1748716274&width=2084",
+          "url": "https://www.divinafitness.com.br"
+        }
+      ],
+      "imgsWithoutAlt": 1,
+      "totalImages": 19,
+      "h1": [],
+      "h2": [
+        "Deixe os clientes falarem por nós"
+      ],
+      "url": "https://www.divinafitness.com.br/roupas-femininas",
+      "label": "Roupas Femininas",
+      "consoleErrors": 10
+    },
+    "produto": {
+      "title": "Legging Básica Lisa Preta",
+      "metaDescription": "Conheça a nova Legging Dupla Frontura Atara Fitness! Desenvolvida para oferecer o máximo em desempenho e conforto, nossa legging combina tecnologia de ponta com materiais de alta qualidade. Descubra porque essa peça é indispensável para seus treinos: Características Principais: Dupla Frontura: Projetada com dois tecido",
+      "ogTags": {
+        "og:type": "product",
+        "og:title": "Legging Básica Lisa Preta",
+        "og:image": "http://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1024",
+        "og:image:secure_url": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1024",
+        "og:image:width": "1000",
+        "og:image:height": "1500",
+        "og:description": "Conheça a nova Legging Dupla Frontura Atara Fitness! Desenvolvida para oferecer o máximo em desempenho e conforto, nossa legging combina tecnologia de ponta com materiais de alta qualidade. Descubra porque essa peça é indispensável para seus treinos: Características Principais: Dupla Frontura: Projetada com dois tecido",
+        "og:url": "https://www.divinafitness.com.br/products/legging-basica-lisa",
+        "og:site_name": "atarafitness"
+      },
+      "jsonLd": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "/products/legging-basica-lisa#product",
+          "@type": "ProductGroup",
+          "brand": {
+            "@type": "Brand",
+            "name": "atara"
+          },
+          "category": "Leggings",
+          "description": "Conheça a nova Legging Dupla Frontura Atara Fitness!\nDesenvolvida para oferecer o máximo em desempenho e conforto, nossa legging combina tecnologia de ponta com materiais de alta qualidade. Descubra porque essa peça é indispensável para seus treinos:\nCaracterísticas Principais: \n\nDupla Frontura: Projetada com dois tecidos que proporcionam uma experiência inigualável de uso.\nParte Externa em Poliéster: O poliéster externo permite que possamos aplicar as estampas mais vibrantes e detalhadas, destacando seu corpo divino e adicionando um toque especial de estilo aos seus treinos.\nZero Transparência: Graças à construção dupla frontura, nossa legging assegura zero transparência, permitindo que você treine com total confiança e segurança.\nSem Aparência Esbranquiçada: Diferente de muitas peças no mercado, nossa legging mantém sua cor e integridade mesmo após muitos usos, sem apresentar a aparência esbranquiçada.\nDesign Exclusivo: As estampas foram cuidadosamente selecionadas para destacar suas curvas e adicionar um toque de elegância e modernidade ao seu look fitness.\n\nBenefícios: \n\nConforto Superior: Sinta-se bem e performe melhor com um tecido que respira e se adapta ao seu corpo.\nEstilo e Funcionalidade: Treine com estilo sem abrir mão da funcionalidade. Nossas estampas exclusivas e o corte anatômico fazem da nossa legging a escolha perfeita para quem quer unir moda e esporte.\nDurabilidade: Desenvolvida para durar, essa peça suporta os treinos mais intensos e múltiplas lavagens sem perder suas qualidades.\n\nIndicação de Uso:\nIdeal para qualquer atividade física, desde treinos de alta intensidade na academia até atividades ao ar livre. Seja para correr, praticar yoga ou levantar pesos, a Legging Dupla Frontura Atara Fitness é sua parceira perfeita. Experimente a Legging Dupla Frontura Atara Fitness e sinta a diferença! Treine com conforto, confiança e estilo, destacando o seu corpo divino em cada movimento.",
+          "hasVariant": [
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140718903#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - P",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140718903#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140718903"
+              },
+              "sku": "1.01.0001-P"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140751671#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - M",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140751671#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140751671"
+              },
+              "sku": "1.01.0001-M"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140784439#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - G",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140784439#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140784439"
+              },
+              "sku": "1.01.0001-G"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140817207#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - GG",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140817207#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140817207"
+              },
+              "sku": "1.01.0001-GG"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140849975#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - XG",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140849975#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140849975"
+              },
+              "sku": "1.01.0001-XG"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140882743#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - XGG",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140882743#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140882743"
+              },
+              "sku": "1.01.0001-XGG"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140915511#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - G1",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140915511#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140915511"
+              },
+              "sku": "1.01.0001-G1"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140948279#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - G2",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140948279#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140948279"
+              },
+              "sku": "1.01.0001-G2"
+            },
+            {
+              "@id": "/products/legging-basica-lisa?variant=50779140981047#variant",
+              "@type": "Product",
+              "image": "https://www.divinafitness.com.br/cdn/shop/files/DF563_19f9cee6-d9f8-403f-9361-f403972b97eb.jpg?v=1761017646&width=1920",
+              "name": "Legging Básica Lisa Preta - G3",
+              "offers": {
+                "@id": "/products/legging-basica-lisa?variant=50779140981047#offer",
+                "@type": "Offer",
+                "availability": "http://schema.org/InStock",
+                "price": "55.90",
+                "priceCurrency": "BRL",
+                "url": "https://www.divinafitness.com.br/products/legging-basica-lisa?variant=50779140981047"
+              },
+              "sku": "1.01.0001-G3"
+            }
+          ],
+          "name": "Legging Básica Lisa Preta",
+          "productGroupID": "10217515483447",
+          "url": "https://www.divinafitness.com.br/products/legging-basica-lisa"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Página Inicial",
+              "item": "https://www.divinafitness.com.br"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legging Básica Lisa Preta",
+              "item": "https://www.divinafitness.com.br/products/legging-basica-lisa"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "atarafitness",
+          "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01.png?v=1748716274&width=2084",
+          "url": "https://www.divinafitness.com.br"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Product",
+          "@id": "https://www.divinafitness.com.br/products/legging-basica-lisa#product",
+          "name": "Legging Básica Lisa Preta",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5.00",
+            "reviewCount": 8610
+          }
+        }
+      ],
+      "imgsWithoutAlt": 31,
+      "totalImages": 66,
+      "h1": [
+        "Legging Básica Lisa Preta"
+      ],
+      "h2": [
+        "Avaliações de Clientes",
+        "Complete o look",
+        "Quem viu, viu também"
+      ],
+      "url": "https://www.divinafitness.com.br/products/legging-basica-lisa",
+      "label": "Produto: Legging Básica Lisa Preta",
+      "consoleErrors": 10
+    },
+    "categoria_extra": {
+      "title": "3 peças por R$ 119,90 - Atara Fitness",
+      "metaDescription": "",
+      "ogTags": {
+        "og:type": "website",
+        "og:title": "3 peças por R$ 119,90 - Atara Fitness",
+        "og:image": "http://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:secure_url": "https://www.divinafitness.com.br/cdn/shop/files/Captura_de_Tela_2025-07-23_as_02.04.56.png?v=1753247124&width=1024",
+        "og:image:width": "2528",
+        "og:image:height": "1160",
+        "og:url": "https://www.divinafitness.com.br/collections/3-por-119",
+        "og:site_name": "atarafitness"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Página Inicial",
+              "item": "https://www.divinafitness.com.br"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "3 peças por R$ 119,90 - Atara Fitness",
+              "item": "https://www.divinafitness.com.br/collections/3-por-119"
+            }
+          ]
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "atarafitness",
+          "logo": "https://www.divinafitness.com.br/cdn/shop/files/Atara_Logo_Prancheta_1-01.png?v=1748716274&width=2084",
+          "url": "https://www.divinafitness.com.br"
+        }
+      ],
+      "imgsWithoutAlt": 45,
+      "totalImages": 129,
+      "h1": [],
+      "h2": [],
+      "url": "https://www.divinafitness.com.br/collections/3-por-119",
+      "label": "Promoções",
+      "consoleErrors": 9
+    }
+  },
+  "products": [
+    {
+      "name": "Legging Essential",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/legging-essential#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Top Alcinha Essential",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/top-alcinha-essential#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Legging Básica Lisa Azul Marinho",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/legging-basica-lisa-azul-escuro#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Legging Estampa Immersion Cinza",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/legging-estampa-localizada-immersion#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Legging Immersion Mescla",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/legging-immersion-mescla#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Legging Básica Lisa Preta",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/legging-basica-lisa#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Bermuda Color Block Pink",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/bermuda-color-block-pink#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Top Nadador Estampa Immersion Cinza",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/top-estampa-localizada-immersion#judgeme_product_reviews",
+      "available": true
+    },
+    {
+      "name": "Bermuda Mocha",
+      "price": "N/A",
+      "url": "https://www.divinafitness.com.br/products/bermuda-mocha#judgeme_product_reviews",
+      "available": true
+    }
+  ],
+  "pixels": {
+    "metaPixel": true,
+    "ga4": true,
+    "gtm": true,
+    "tiktok": false,
+    "hotjar": false,
+    "clarity": false,
+    "pinterest": false,
+    "taboola": false,
+    "kwai": false
+  },
+  "trust": {
+    "hasReviews": true,
+    "hasSecurityBadge": true,
+    "hasReturnPolicy": true,
+    "hasWarranty": false,
+    "hasFreeShipping": true,
+    "hasInstallments": true,
+    "hasSizeGuide": false,
+    "hasSocialProof": false,
+    "hasWhatsapp": true,
+    "hasLiveChat": true
+  },
+  "mobileIssues": [
+    {
+      "page": "Home",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "7 botões abaixo de 44px"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "58 elementos com fonte < 12px"
+        }
+      ]
+    },
+    {
+      "page": "Coleções",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "3 botões abaixo de 44px"
+        }
+      ]
+    },
+    {
+      "page": "Roupas Femininas",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "3 botões abaixo de 44px"
+        }
+      ]
+    },
+    {
+      "page": "Produto: Legging Básica Lisa Preta",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "9 botões abaixo de 44px"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "44 elementos com fonte < 12px"
+        }
+      ]
+    },
+    {
+      "page": "Promoções",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "3 botões abaixo de 44px"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "92 elementos com fonte < 12px"
+        }
+      ]
+    }
+  ],
+  "screenshots": [],
+  "productPageTrust": {
+    "hasReviews": true,
+    "hasSecurityBadge": true,
+    "hasReturnPolicy": true,
+    "hasWarranty": false,
+    "hasFreeShipping": true,
+    "hasInstallments": true,
+    "hasSizeGuide": true,
+    "hasSocialProof": false,
+    "hasWhatsapp": true,
+    "hasLiveChat": true
+  },
+  "productPageDetails": {
+    "hasAddToCart": true,
+    "hasSizeSelector": true,
+    "hasPrice": true,
+    "hasInstallments": true,
+    "hasReviews": true,
+    "hasShipping": true,
+    "hasSizeGuide": true,
+    "hasDescription": true,
+    "hasMultipleImages": true,
+    "hasSocialShare": true,
+    "hasReturnPolicy": true,
+    "hasSecurityBadge": true
+  }
+}
