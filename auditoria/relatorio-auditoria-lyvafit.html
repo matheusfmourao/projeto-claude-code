@@ -565,27 +565,38 @@ tr:hover { background: var(--gray-50); }
       <div class="step-clicks">1 clique</div>
     </div>
     <div class="funnel-arrow">&#9654;</div>
-    <div class="funnel-step" style="background: #999; text-decoration: line-through;">
+    <div class="funnel-step" style="background: #b0126e">
       <div class="step-name">Carrinho</div>
-      <div class="step-clicks">ERRO 404</div>
+      <div class="step-clicks">Drawer lateral</div>
     </div>
-    <div class="funnel-arrow" style="color: var(--red);">&#10007;</div>
-    <div class="funnel-step" style="background: #999; text-decoration: line-through;">
+    <div class="funnel-arrow">&#9654;</div>
+    <div class="funnel-step" style="background: #9e0e64">
       <div class="step-name">Checkout</div>
-      <div class="step-clicks">ERRO 404</div>
+      <div class="step-clicks">Nuvemshop</div>
     </div>
   </div>
 
-  <div style="margin-top: 24px; padding: 20px; background: #fff5f5; border-radius: 10px; border: 2px solid var(--red);">
-    <h3 style="color: var(--red); margin-top: 0;">ALERTA: Funil completamente bloqueado</h3>
-    <p>O funil de compra esta <strong>interrompido na etapa do carrinho</strong>. Tanto /cart quanto /checkout
-    retornam erro 404. Isso significa que <strong>nenhum cliente consegue finalizar uma compra</strong> pelo fluxo padrao do site.</p>
+  <div style="margin-top: 24px; padding: 20px; background: #f0fff4; border-radius: 10px; border: 2px solid var(--green);">
+    <h3 style="color: var(--green); margin-top: 0;">Funil funcional com drawer lateral</h3>
+    <p>O carrinho funciona como <strong>sidebar/drawer</strong> que abre ao clicar em "Comprar" na pagina de produto.
+    O fluxo e: selecionar tamanho (P/M/G/GG) &#8594; clicar COMPRAR &#8594; drawer abre com resumo do pedido,
+    calculo automatico de frete e botao para finalizar. O checkout e processado pela infraestrutura da Nuvemshop.</p>
     <br>
-    <p><strong>Possivel causa:</strong> O site opera na Nuvemshop. A pagina de carrinho pode estar desabilitada por configuracao
-    do tema, ou pode haver um conflito com o dominio customizado. Verifique as configuracoes em Nuvemshop Admin > Design > Paginas.</p>
+    <p><strong>Pontos positivos do funil:</strong></p>
+    <ul style="margin-left: 20px; margin-top: 8px;">
+      <li>Frete calculado automaticamente no drawer (ex: MOTOBOY FORTALEZA R$15,00)</li>
+      <li>Subtotal visivel imediatamente</li>
+      <li>Nao redireciona para outra pagina - mantem o contexto</li>
+      <li>WhatsApp flutuante como canal alternativo de venda</li>
+    </ul>
     <br>
-    <p><strong>Acoes possiveis do usuario:</strong> O unico caminho para compra atualmente pode ser via WhatsApp (botao flutuante
-    visivel no canto inferior direito) ou Instagram Direct.</p>
+    <p><strong>Pontos de friccao restantes:</strong></p>
+    <ul style="margin-left: 20px; margin-top: 8px;">
+      <li>Sem avaliacoes de clientes para reduzir incerteza</li>
+      <li>Sem guia de tamanhos para ajudar na escolha</li>
+      <li>Sem selos de confianca visiveis (pagamento seguro, politica de troca)</li>
+      <li>Estoque muito baixo em alguns produtos pode gerar "esgotado" inesperado</li>
+    </ul>
   </div>
 
   <h3 style="margin-top: 24px;">Detalhes da Pagina de Produto</h3>
