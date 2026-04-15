@@ -13,5 +13,10 @@
         ]
       }
     ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"/c/Users/USER/OneDrive/Documentos/Projeto claude code/auditoria/relatorio-auditoria-lyvafit.html\")"
+    ]
   }
 }
