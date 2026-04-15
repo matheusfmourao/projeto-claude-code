@@ -1,0 +1,2429 @@
+{
+  "timestamp": "2026-04-15T22:04:28.172Z",
+  "site": "https://lyvafit.com.br",
+  "pages": {
+    "home": {
+      "title": "Loja online de LYVA",
+      "metaDescription": "Compre produtos de LYVA por internet. Temos coleÇÃo flow, outlet e mais. Faça seu pedido e pague-o online.",
+      "ogTags": {
+        "og:site_name": "LYVA",
+        "og:type": "website",
+        "og:title": "Loja online de LYVA",
+        "og:description": "Compre produtos de LYVA por internet. Temos coleÇÃo flow, outlet e mais. Faça seu pedido e pague-o online.",
+        "og:url": "https://lyvafit.com.br",
+        "og:image": "http://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+        "og:image:secure_url": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "LYVA",
+          "logo": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+          "url": "https://lyvafit.com.br",
+          "sameAs": [
+            "https://instagram.com/lyva_fit"
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "name": "Loja online de LYVA",
+          "description": "Compre produtos de LYVA por internet. Temos cole&amp;Ccedil;&amp;Atilde;o flow, outlet e mais. Fa&amp;ccedil;a seu pedido e pague-o online.",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Início",
+                "item": "https://lyvafit.com.br"
+              }
+            ]
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/"
+          },
+          "name": "TOP MAYA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0009-jpg-f650253e4b34b633ed17730608388204-480-0.webp",
+          "description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/"
+          },
+          "name": "TOP MAYA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0206-jpg-d29af7e931d073f10117730621351569-480-0.webp",
+          "description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "3"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/"
+          },
+          "name": "CAMISETA LUNA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0035-jpg-8cc32f67f07665d24917730631022477-480-0.webp",
+          "description": "Camiseta Luna ela é toda dupla e foi desenvolvida para unir estilo, sustentação e conforto. O modelo frente única valoriza os ombros e o colo, enquanto o tec...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-gelo-32si7/"
+          },
+          "name": "CAMISETA LUNA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0250-jpg-168e71adcbd251b88e17730626772411-480-0.webp",
+          "description": "Camiseta Luna, toda dupla e foi desenvolvida para unir estilo, sustentação e conforto. O modelo frente única valoriza os ombros e o colo, enquanto o tecido s...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-gelo-32si7/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "10"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/"
+          },
+          "name": "SHORT SERENA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0163-jpg-76de1efc03bcbc5b0a17730629054397-480-0.webp",
+          "description": "Short duplo Serena foi desenvolvido para oferecer liberdade de movimento, conforto e segurança durante o treino. O cós alto modela a cintura enquanto a camad...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/"
+          },
+          "name": "BOMBER ESTER ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0053-jpg-dc3ab0c9c042c01f6d17730620432255-480-0.webp",
+          "description": "A Bomber Ester foi desenvolvida para proporcionar conforto, estilo e funcionalidade no dia a dia e nos treinos. Com modelagem super leve! Ideal para compor l...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/"
+          },
+          "name": "BOMBER ESTER BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0164-jpg-c316a6ab0e8f6772b117730607876509-480-0.webp",
+          "description": "A Bomber Ester foi desenvolvida para proporcionar conforto, estilo e funcionalidade no dia a dia e nos treinos. Com modelagem super leve! Ideal para compor l...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-gelo-1x9ty/"
+          },
+          "name": "BOMBER ESTER GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0116-jpg-ce011e14cee082f4b817730579397089-480-0.webp",
+          "description": "A Bomber Ester foi desenvolvida para proporcionar conforto, estilo e funcionalidade no dia a dia e nos treinos. Com modelagem super leve!   Ideal para compor...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-gelo-1x9ty/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/"
+          },
+          "name": "MACAQUINHO LUISA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0196-jpg-53f5a61a815fe3ace617730607236076-480-0.webp",
+          "description": "O macaquinho Luisa une performance, conforto e estilo em uma única peça. Com modelagem que valoriza a silhueta, ele se ajusta ao corpo de forma confortável, ...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "8"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-berinjela-jmli3/"
+          },
+          "name": "MACAQUINHO LUISA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0167-jpg-18f612b8b1d1d480f817730606745436-480-0.webp",
+          "description": "O macaquinho Luisa une performance, conforto e estilo em uma única peça. Com modelagem que valoriza a silhueta, ele se ajusta ao corpo de forma confortável, ...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-berinjela-jmli3/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-alana-104m1/"
+          },
+          "name": "SHORT ALANA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0213-jpg-25210a04610e65b0cb17730602150866-480-0.webp",
+          "description": "Eleve o nível do seu treino com o Short Alana. Esse modelo traz o cós em formato V, que modela a cintura e valoriza a cintura de forma natural e confortável....",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-alana-104m1/",
+            "priceCurrency": "BRL",
+            "price": "99.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/legging-lyva-gelo-zvd03/"
+          },
+          "name": "LEGGING LYVA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0233-jpg-dad247c1ea46af3e9d17730612498313-480-0.webp",
+          "description": "Nossa legging possui um conforto sem igual, com um tecido que nos abraça e nos deixa confortável o dia inteiro. Possui dois bolsos funcionais nas laterais, p...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/legging-lyva-gelo-zvd03/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "4"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/"
+          },
+          "name": "TOP MAYA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0161-jpg-562b9a0dc55c3aecb017730600913184-480-0.webp",
+          "description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-serena-rosa-pd2hy/"
+          },
+          "name": "SHORT SERENA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0008-jpg-5e096f00f4d550668b17730629577282-480-0.webp",
+          "description": "Short duplo Serena foi desenvolvido para oferecer liberdade de movimento, conforto e segurança durante o treino. O cós alto modela a cintura enquanto a camad...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-serena-rosa-pd2hy/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/OutOfStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "0"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-ly-glow-laranja/"
+          },
+          "name": "TOP LY GLOW LARANJA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/set_8565-788984f556e853fb9a17494872747110-480-0.webp",
+          "description": "Top com costas nua, com acabamento em elástico, proporcionando uma ótima sustentação. Duplo e forrado no mesmo tecido, auxiliando na compressão e no conforto...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-ly-glow-laranja/",
+            "priceCurrency": "BRL",
+            "price": "69.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/legging-lyva-glow-preto/"
+          },
+          "name": "LEGGING LYVA GLOW - PRETO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/364a0341-dbd94f5d0a7835e93017290930876110-480-0.webp",
+          "description": "Nossa legging possui um conforto sem igual, com um tecido que nos abraça e nos deixa confortável o dia inteiro. Possui dois bolsos nas laterais, proporcionan...",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.35"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/legging-lyva-glow-preto/",
+            "priceCurrency": "BRL",
+            "price": "135.9",
+            "availability": "http://schema.org/OutOfStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "0"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        }
+      ],
+      "imgsWithoutAlt": [
+        {
+          "src": "https://lyvafit.com.br/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "totalImages": 31,
+      "h1": [
+        "LYVA"
+      ],
+      "h2": [
+        "Lançamentos",
+        "Promoções",
+        "Cupons de desconto"
+      ],
+      "url": "https://lyvafit.com.br/",
+      "label": "Home",
+      "consoleErrors": []
+    },
+    "colecao": {
+      "title": "Comprar COLEÇÃO FLOW em LYVA",
+      "metaDescription": "Compre online COLEÇÃO FLOW por . Temos macaquinho luisa berinjela, short serena berinjela e mais. Faça seu pedido e pague-o online.",
+      "ogTags": {
+        "og:site_name": "LYVA",
+        "og:url": "https://lyvafit.com.br/colecao-flow/",
+        "og:title": "COLEÇÃO FLOW",
+        "og:description": "",
+        "og:image": "http://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+        "og:image:secure_url": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "LYVA",
+          "logo": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+          "url": "https://lyvafit.com.br",
+          "sameAs": [
+            "https://instagram.com/lyva_fit"
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "name": "Comprar COLEÇÃO FLOW em LYVA",
+          "description": "Compre online COLEÇÃO FLOW por . Temos macaquinho luisa berinjela, short serena berinjela e mais. Faça seu pedido e pague-o online.",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Início",
+                "item": "https://lyvafit.com.br"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "COLEÇÃO FLOW",
+                "item": "https://lyvafit.com.br/colecao-flow/"
+              }
+            ]
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-berinjela-jmli3/"
+          },
+          "name": "MACAQUINHO LUISA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0167-jpg-18f612b8b1d1d480f817730606745436-480-0.webp",
+          "description": "Compre online MACAQUINHO LUISA BERINJELA por R$159,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-berinjela-jmli3/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/"
+          },
+          "name": "SHORT SERENA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0163-jpg-76de1efc03bcbc5b0a17730629054397-480-0.webp",
+          "description": "Compre online SHORT SERENA BERINJELA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/"
+          },
+          "name": "TOP MAYA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0161-jpg-562b9a0dc55c3aecb017730600913184-480-0.webp",
+          "description": "Compre online TOP MAYA BERINJELA por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-alana-104m1/"
+          },
+          "name": "SHORT ALANA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0213-jpg-25210a04610e65b0cb17730602150866-480-0.webp",
+          "description": "Compre online SHORT ALANA por R$99,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-alana-104m1/",
+            "priceCurrency": "BRL",
+            "price": "99.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/"
+          },
+          "name": "TOP MAYA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0009-jpg-f650253e4b34b633ed17730608388204-480-0.webp",
+          "description": "Compre online TOP MAYA ROSA por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-gelo-32si7/"
+          },
+          "name": "CAMISETA LUNA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0250-jpg-168e71adcbd251b88e17730626772411-480-0.webp",
+          "description": "Compre online CAMISETA LUNA GELO por R$109,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-gelo-32si7/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "10"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/"
+          },
+          "name": "TOP MAYA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0206-jpg-d29af7e931d073f10117730621351569-480-0.webp",
+          "description": "Compre online TOP MAYA GELO por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "3"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/legging-lyva-gelo-zvd03/"
+          },
+          "name": "LEGGING LYVA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0233-jpg-dad247c1ea46af3e9d17730612498313-480-0.webp",
+          "description": "Compre online LEGGING LYVA GELO por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/legging-lyva-gelo-zvd03/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "4"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/"
+          },
+          "name": "BOMBER ESTER ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0053-jpg-dc3ab0c9c042c01f6d17730620432255-480-0.webp",
+          "description": "Compre online BOMBER ESTER ROSA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/"
+          },
+          "name": "CAMISETA LUNA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0035-jpg-8cc32f67f07665d24917730631022477-480-0.webp",
+          "description": "Compre online CAMISETA LUNA ROSA por R$109,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/"
+          },
+          "name": "MACAQUINHO LUISA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0196-jpg-53f5a61a815fe3ace617730607236076-480-0.webp",
+          "description": "Compre online MACAQUINHO LUISA GELO por R$159,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "8"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-gelo-1x9ty/"
+          },
+          "name": "BOMBER ESTER GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0116-jpg-ce011e14cee082f4b817730579397089-480-0.webp",
+          "description": "Compre online BOMBER ESTER GELO por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-gelo-1x9ty/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        }
+      ],
+      "imgsWithoutAlt": [
+        {
+          "src": "https://lyvafit.com.br/colecao-flow/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/colecao-flow/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/colecao-flow/",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "totalImages": 17,
+      "h1": [
+        "COLEÇÃO FLOW"
+      ],
+      "h2": [
+        "Cupons de desconto"
+      ],
+      "url": "https://lyvafit.com.br/colecao-flow/",
+      "label": "Coleção Flow",
+      "consoleErrors": []
+    },
+    "produto": {
+      "title": "TOP MAYA ROSA - Comprar em LYVA",
+      "metaDescription": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+      "ogTags": {
+        "og:site_name": "LYVA",
+        "og:url": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+        "og:title": "TOP MAYA ROSA",
+        "og:description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+        "og:type": "nuvemshop:product",
+        "og:image": "http://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0009-jpg-f650253e4b34b633ed17730608388204-640-0.webp",
+        "og:image:secure_url": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0009-jpg-f650253e4b34b633ed17730608388204-640-0.webp"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "LYVA",
+          "logo": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+          "url": "https://lyvafit.com.br",
+          "sameAs": [
+            "https://instagram.com/lyva_fit"
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "name": "TOP MAYA ROSA - Comprar em LYVA",
+          "description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Início",
+                "item": "https://lyvafit.com.br"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "COLEÇÃO FLOW",
+                "item": "https://lyvafit.com.br/colecao-flow/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "TOP MAYA ROSA",
+                "item": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/"
+              }
+            ]
+          },
+          "mainEntity": {
+            "@type": "Product",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+            "name": "TOP MAYA ROSA",
+            "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0009-jpg-f650253e4b34b633ed17730608388204-480-0.webp",
+            "description": "O Top Maya foi desenvolvido para unir sustentação, elegância e design marcante.Com decote arredondado frontal que valoriza o colo e costas com tiras cruzadas...",
+            "weight": {
+              "@type": "QuantitativeValue",
+              "unitCode": "KGM",
+              "value": "0.2"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+              "priceCurrency": "BRL",
+              "price": "89.9",
+              "availability": "http://schema.org/InStock",
+              "inventoryLevel": {
+                "@type": "QuantitativeValue",
+                "value": "1"
+              },
+              "seller": {
+                "@type": "Organization",
+                "name": "LYVA"
+              }
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/"
+          },
+          "name": "CAMISETA LUNA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0035-jpg-8cc32f67f07665d24917730631022477-480-0.webp",
+          "description": "Compre online CAMISETA LUNA ROSA por R$109,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/"
+          },
+          "name": "BOMBER ESTER ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0053-jpg-dc3ab0c9c042c01f6d17730620432255-480-0.webp",
+          "description": "Compre online BOMBER ESTER ROSA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/"
+          },
+          "name": "BOMBER ESTER BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0164-jpg-c316a6ab0e8f6772b117730607876509-480-0.webp",
+          "description": "Compre online BOMBER ESTER BERINJELA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/"
+          },
+          "name": "SHORT SERENA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0163-jpg-76de1efc03bcbc5b0a17730629054397-480-0.webp",
+          "description": "Compre online SHORT SERENA BERINJELA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/"
+          },
+          "name": "TOP MAYA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0206-jpg-d29af7e931d073f10117730621351569-480-0.webp",
+          "description": "Compre online TOP MAYA GELO por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "3"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-alana-104m1/"
+          },
+          "name": "SHORT ALANA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0213-jpg-25210a04610e65b0cb17730602150866-480-0.webp",
+          "description": "Compre online SHORT ALANA por R$99,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-alana-104m1/",
+            "priceCurrency": "BRL",
+            "price": "99.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/"
+          },
+          "name": "TOP MAYA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0161-jpg-562b9a0dc55c3aecb017730600913184-480-0.webp",
+          "description": "Compre online TOP MAYA BERINJELA por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/"
+          },
+          "name": "MACAQUINHO LUISA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0196-jpg-53f5a61a815fe3ace617730607236076-480-0.webp",
+          "description": "Compre online MACAQUINHO LUISA GELO por R$159,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "8"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/"
+          },
+          "name": "CAMISETA LUNA ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0035-jpg-8cc32f67f07665d24917730631022477-480-0.webp",
+          "description": "Compre online CAMISETA LUNA ROSA por R$109,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/camiseta-open-rosa-1oex2/",
+            "priceCurrency": "BRL",
+            "price": "109.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "1"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/"
+          },
+          "name": "BOMBER ESTER ROSA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0053-jpg-dc3ab0c9c042c01f6d17730620432255-480-0.webp",
+          "description": "Compre online BOMBER ESTER ROSA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-rosa-f3jvq/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/"
+          },
+          "name": "BOMBER ESTER BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0164-jpg-c316a6ab0e8f6772b117730607876509-480-0.webp",
+          "description": "Compre online BOMBER ESTER BERINJELA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/bomber-ester-berinjela-fesh1/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/"
+          },
+          "name": "SHORT SERENA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0163-jpg-76de1efc03bcbc5b0a17730629054397-480-0.webp",
+          "description": "Compre online SHORT SERENA BERINJELA por R$129,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-serena-beringela-1y4mw/",
+            "priceCurrency": "BRL",
+            "price": "129.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/"
+          },
+          "name": "TOP MAYA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0206-jpg-d29af7e931d073f10117730621351569-480-0.webp",
+          "description": "Compre online TOP MAYA GELO por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-gelo-1s7b9/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "3"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/short-alana-104m1/"
+          },
+          "name": "SHORT ALANA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0213-jpg-25210a04610e65b0cb17730602150866-480-0.webp",
+          "description": "Compre online SHORT ALANA por R$99,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.25"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/short-alana-104m1/",
+            "priceCurrency": "BRL",
+            "price": "99.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "5"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/"
+          },
+          "name": "TOP MAYA BERINJELA",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0161-jpg-562b9a0dc55c3aecb017730600913184-480-0.webp",
+          "description": "Compre online TOP MAYA BERINJELA por R$89,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.2"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/top-maya-berinjela-162dk/",
+            "priceCurrency": "BRL",
+            "price": "89.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "2"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/"
+          },
+          "name": "MACAQUINHO LUISA GELO",
+          "image": "https://acdn-us.mitiendanube.com/stores/005/028/316/products/img_0196-jpg-53f5a61a815fe3ace617730607236076-480-0.webp",
+          "description": "Compre online MACAQUINHO LUISA GELO por R$159,90. Faça seu pedido e pague-o online.",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "unitCode": "KGM",
+            "value": "0.3"
+          },
+          "offers": {
+            "@type": "Offer",
+            "url": "https://lyvafit.com.br/produtos/macaquinho-luisa-gelo-d3n74/",
+            "priceCurrency": "BRL",
+            "price": "159.9",
+            "availability": "http://schema.org/InStock",
+            "inventoryLevel": {
+              "@type": "QuantitativeValue",
+              "value": "8"
+            },
+            "seller": {
+              "@type": "Organization",
+              "name": "LYVA"
+            }
+          }
+        }
+      ],
+      "imgsWithoutAlt": [
+        {
+          "src": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        },
+        {
+          "src": "https://acdn-us.mitiendanube.com/assets/themes/amazonas/static/images/empty-placeholder.png",
+          "width": 1,
+          "height": 1
+        }
+      ],
+      "totalImages": 43,
+      "h1": [
+        "TOP MAYA ROSA"
+      ],
+      "h2": [
+        "R$89,90",
+        "Produtos similares",
+        "Cupons de desconto"
+      ],
+      "url": "https://lyvafit.com.br/produtos/top-maya-rosa-chiclete-133tt/",
+      "label": "Produto - Top Maya",
+      "consoleErrors": []
+    },
+    "contato": {
+      "title": "Contato - LYVA",
+      "metaDescription": "",
+      "ogTags": {
+        "og:site_name": "LYVA"
+      },
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "LYVA",
+          "logo": "https://acdn-us.mitiendanube.com/stores/005/028/316/themes/common/logo-372011449-1723208035-9c5cc78c4fb0f66b81690c0db11d9f7e1723208035.png?0",
+          "url": "https://lyvafit.com.br",
+          "sameAs": [
+            "https://instagram.com/lyva_fit"
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebPage",
+          "name": "Contato - LYVA",
+          "description": "",
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Início",
+                "item": "https://lyvafit.com.br"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Contato",
+                "item": "https://lyvafit.com.br/contato/"
+              }
+            ]
+          }
+        }
+      ],
+      "imgsWithoutAlt": [
+        {
+          "src": "https://lyvafit.com.br/contato/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/contato/",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "https://lyvafit.com.br/contato/",
+          "width": 0,
+          "height": 0
+        }
+      ],
+      "totalImages": 5,
+      "h1": [
+        "Contato"
+      ],
+      "h2": [
+        "Cupons de desconto"
+      ],
+      "url": "https://lyvafit.com.br/contato/",
+      "label": "Contato",
+      "consoleErrors": []
+    }
+  },
+  "products": [
+    {
+      "name": "Produtos",
+      "price": "N/A",
+      "url": "https://lyvafit.com.br/produtos/",
+      "available": true
+    }
+  ],
+  "mobileIssues": [
+    {
+      "page": "Home",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Entendi\" muito pequeno para toque: 72x31px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 165x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 241x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 111x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 360x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "64 elementos com fonte menor que 12px"
+        }
+      ]
+    },
+    {
+      "page": "Coleção Flow",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Entendi\" muito pequeno para toque: 72x31px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 111x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 46x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "51 elementos com fonte menor que 12px"
+        }
+      ]
+    },
+    {
+      "page": "Produto - Top Maya",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Entendi\" muito pequeno para toque: 72x31px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Ver mais detalhes\" muito pequeno para toque: 390x15px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Alterar CEP\" muito pequeno para toque: 101x23px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Calcular\n\t\t\t\t\t\tCalculando\" muito pequeno para toque: 180x43px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Comprar\" muito pequeno para toque: 154x33px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Comprar"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Espiar\" muito pequeno para toque: 68x35px (mín. 44x44)"
+        },
+        {
+          "type": "offscreen",
+          "severity": "critical",
+          "detail": "Elemento fora da tela: Espiar"
+        },
+        {
+          "type": "small-text",
+          "severity": "important",
+          "detail": "54 elementos com fonte menor que 12px"
+        }
+      ]
+    },
+    {
+      "page": "Contato",
+      "issues": [
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Entendi\" muito pequeno para toque: 72x31px (mín. 44x44)"
+        },
+        {
+          "type": "small-target",
+          "severity": "important",
+          "detail": "Botão \"Enviar\" muito pequeno para toque: 360x42px (mín. 44x44)"
+        }
+      ]
+    }
+  ],
+  "consoleErrors": {},
+  "pixels": {
+    "metaPixel": true,
+    "ga4": false,
+    "gtm": false,
+    "tiktok": true,
+    "hotjar": false,
+    "clarity": false,
+    "other": []
+  },
+  "funnel": {
+    "steps": [
+      {
+        "name": "Home",
+        "url": "https://lyvafit.com.br",
+        "clicks": 0
+      },
+      {
+        "name": "Coleção",
+        "url": "https://lyvafit.com.br/colecao-flow/",
+        "clicks": 1
+      },
+      {
+        "name": "Produto",
+        "clicks": 1,
+        "details": {
+          "hasAddToCart": true,
+          "addToCartText": "",
+          "hasSizeSelector": true,
+          "hasPrice": true,
+          "priceText": "",
+          "hasReviews": false,
+          "hasShippingInfo": true,
+          "hasInstallments": true
+        }
+      },
+      {
+        "name": "Carrinho",
+        "url": "https://lyvafit.com.br/cart",
+        "clicks": 1
+      },
+      {
+        "name": "Checkout",
+        "clicks": 0,
+        "url": "https://lyvafit.com.br/checkout"
+      }
+    ],
+    "totalClicks": 3,
+    "frictionPoints": [
+      "Sem avaliações de clientes visíveis na página de produto",
+      "Botão de adicionar ao carrinho não encontrado com seletores padrão"
+    ]
+  },
+  "screenshots": [
+    {
+      "page": "Home",
+      "file": "home_1440x900.png",
+      "type": "desktop"
+    },
+    {
+      "page": "Home",
+      "file": "home_mobile_390x844.png",
+      "type": "mobile"
+    },
+    {
+      "page": "Coleção Flow",
+      "file": "colecao_1440x900.png",
+      "type": "desktop"
+    },
+    {
+      "page": "Coleção Flow",
+      "file": "colecao_mobile_390x844.png",
+      "type": "mobile"
+    },
+    {
+      "page": "Produto - Top Maya",
+      "file": "produto_1440x900.png",
+      "type": "desktop"
+    },
+    {
+      "page": "Produto - Top Maya",
+      "file": "produto_mobile_390x844.png",
+      "type": "mobile"
+    },
+    {
+      "page": "Contato",
+      "file": "contato_1440x900.png",
+      "type": "desktop"
+    },
+    {
+      "page": "Contato",
+      "file": "contato_mobile_390x844.png",
+      "type": "mobile"
+    }
+  ]
+}
