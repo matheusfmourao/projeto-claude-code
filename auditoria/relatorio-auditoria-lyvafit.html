@@ -245,31 +245,13 @@ tr:hover { background: var(--gray-50); }
 
   <h3>CRITICO - Corrigir imediatamente</h3>
 
-  <div class="issue-item critical">
-    <div class="issue-title"><span class="badge badge-critical">Critico</span> Carrinho retorna Erro 404</div>
+  <div class="issue-item" style="border-left-color: var(--green); background: #f0fff4; margin-bottom: 20px;">
+    <div class="issue-title"><span class="badge badge-ok">OK</span> Carrinho e Checkout funcionando</div>
     <div class="issue-detail">
-      Ao acessar /cart, a pagina exibe "Erro - 404" em vez de mostrar o carrinho com os produtos adicionados.
-      Isso <strong>impede completamente a finalizacao de qualquer compra</strong> pelo fluxo padrao.
+      O carrinho opera como <strong>drawer lateral (sidebar)</strong> que abre sobre a pagina atual ao clicar em "Comprar".
+      Nao utiliza URLs separadas /cart ou /checkout - o fluxo e feito via JavaScript, padrao moderno da Nuvemshop.
+      O drawer exibe: produto, quantidade, subtotal, calculo de frete automatico e botao para finalizar compra.
     </div>
-    <div class="issue-impact">Impacto estimado: <strong>+40-60% em conversao</strong> ao corrigir (bloqueio total do funil)</div>
-  </div>
-
-  <div class="issue-item critical">
-    <div class="issue-title"><span class="badge badge-critical">Critico</span> Checkout retorna Erro 404</div>
-    <div class="issue-detail">
-      A pagina /checkout tambem retorna 404. Nenhum cliente consegue concluir uma compra pelo site.
-      Possivelmente um problema de configuracao da Nuvemshop ou do dominio.
-    </div>
-    <div class="issue-impact">Impacto estimado: <strong>Bloqueio total de receita via site</strong></div>
-  </div>
-
-  <div class="issue-item critical">
-    <div class="issue-title"><span class="badge badge-critical">Critico</span> Botao "Adicionar ao Carrinho" nao funciona corretamente</div>
-    <div class="issue-detail">
-      O botao de compra na pagina de produto nao foi detectado pelos seletores padrao, indicando que pode estar
-      com um seletor customizado que dificulta a interacao ou que ha um problema de JavaScript impedindo o clique.
-    </div>
-    <div class="issue-impact">Impacto estimado: <strong>+20-30% em conversao</strong></div>
   </div>
 
   <div class="issue-item critical">
