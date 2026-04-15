@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd '/c/Users/USER/OneDrive/Documentos/Projeto claude code' && git add -A && git diff --cached --quiet || (git commit -m 'auto: atualizar arquivos' && git push origin main) 2>/dev/null || true",
+            "timeout": 30,
+            "statusMessage": "Sincronizando com GitHub..."
+          }
+        ]
+      }
+    ]
+  }
+}
