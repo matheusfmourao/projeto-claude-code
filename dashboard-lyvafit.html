@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LYVA FIT - Dashboard de Anuncios | 14/04 a 19/04/2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0f0f1a;
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            padding: 30px 40px;
+            border-bottom: 3px solid #e94560;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .brand-icon {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, #e94560, #c23152);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: bold;
+            color: white;
+        }
+
+        .brand h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #ffffff;
+            letter-spacing: 2px;
+        }
+
+        .brand span {
+            font-size: 13px;
+            color: #8892b0;
+            letter-spacing: 1px;
+        }
+
+        .period-badge {
+            background: rgba(233, 69, 96, 0.15);
+            border: 1px solid #e94560;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            color: #e94560;
+            font-weight: 600;
+        }
+
+        /* KPI Cards */
+        .kpi-section {
+            padding: 30px 40px;
+        }
+
+        .kpi-section h2 {
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #8892b0;
+            margin-bottom: 20px;
+        }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .kpi-card {
+            background: linear-gradient(145deg, #1a1a2e, #16213e);
+            border: 1px solid #233554;
+            border-radius: 12px;
+            padding: 24px;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+
+        .kpi-card:hover {
+            transform: translateY(-2px);
+            border-color: #e94560;
+        }
+
+        .kpi-label {
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #8892b0;
+            margin-bottom: 8px;
+        }
+
+        .kpi-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .kpi-sub {
+            font-size: 12px;
+            color: #64ffda;
+            margin-top: 6px;
+        }
+
+        .kpi-sub.warn {
+            color: #ffd93d;
+        }
+
+        .kpi-sub.bad {
+            color: #e94560;
+        }
+
+        /* Criterios de Corte */
+        .criteria-section {
+            padding: 0 40px 30px;
+        }
+
+        .criteria-section h2 {
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #8892b0;
+            margin-bottom: 20px;
+        }
+
+        .criteria-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 15px;
+        }
+
+        .criteria-card {
+            background: rgba(26, 26, 46, 0.8);
+            border-radius: 10px;
+            padding: 18px 22px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-left: 4px solid transparent;
+        }
+
+        .criteria-card.pass {
+            border-left-color: #64ffda;
+        }
+
+        .criteria-card.fail {
+            border-left-color: #e94560;
+        }
+
+        .criteria-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .criteria-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: #ccd6f6;
+        }
+
+        .criteria-rule {
+            font-size: 12px;
+            color: #8892b0;
+        }
+
+        .criteria-status {
+            font-size: 13px;
+            font-weight: 700;
+            padding: 6px 14px;
+            border-radius: 20px;
+        }
+
+        .criteria-status.pass {
+            background: rgba(100, 255, 218, 0.12);
+            color: #64ffda;
+        }
+
+        .criteria-status.fail {
+            background: rgba(233, 69, 96, 0.12);
+            color: #e94560;
+        }
+
+        /* Ad Card */
+        .ads-section {
+            padding: 0 40px 40px;
+        }
+
+        .ads-section h2 {
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #8892b0;
+            margin-bottom: 20px;
+        }
+
+        .ad-card {
+            background: linear-gradient(145deg, #1a1a2e, #16213e);
+            border: 1px solid #233554;
+            border-radius: 16px;
+            overflow: hidden;
+        }
+
+        .ad-card-header {
+            padding: 24px 28px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 15px;
+            border-bottom: 1px solid #233554;
+        }
+
+        .ad-name-block h3 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #ccd6f6;
+            margin-bottom: 6px;
+        }
+
+        .ad-set-name {
+            font-size: 12px;
+            color: #8892b0;
+            background: rgba(136, 146, 176, 0.1);
+            padding: 4px 10px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .ad-badge {
+            padding: 8px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .ad-badge.approved {
+            background: linear-gradient(135deg, rgba(100, 255, 218, 0.15), rgba(100, 255, 218, 0.05));
+            border: 1px solid #64ffda;
+            color: #64ffda;
+        }
+
+        .ad-badge.almost {
+            background: linear-gradient(135deg, rgba(255, 217, 61, 0.15), rgba(255, 217, 61, 0.05));
+            border: 1px solid #ffd93d;
+            color: #ffd93d;
+        }
+
+        .ad-badge.rejected {
+            background: linear-gradient(135deg, rgba(233, 69, 96, 0.15), rgba(233, 69, 96, 0.05));
+            border: 1px solid #e94560;
+            color: #e94560;
+        }
+
+        .ad-metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 1px;
+            background: #233554;
+        }
+
+        .ad-metric {
+            background: #1a1a2e;
+            padding: 20px 24px;
+            text-align: center;
+        }
+
+        .ad-metric-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #8892b0;
+            margin-bottom: 6px;
+        }
+
+        .ad-metric-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .ad-metric-value.highlight {
+            color: #64ffda;
+        }
+
+        .ad-metric-value.warn-color {
+            color: #ffd93d;
+        }
+
+        /* Progress bars */
+        .ad-progress-section {
+            padding: 24px 28px;
+            border-top: 1px solid #233554;
+        }
+
+        .progress-item {
+            margin-bottom: 16px;
+        }
+
+        .progress-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .progress-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 6px;
+        }
+
+        .progress-label {
+            font-size: 13px;
+            color: #8892b0;
+        }
+
+        .progress-value {
+            font-size: 13px;
+            font-weight: 600;
+            color: #ccd6f6;
+        }
+
+        .progress-bar {
+            height: 8px;
+            background: #233554;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 1s ease;
+        }
+
+        .progress-fill.green {
+            background: linear-gradient(90deg, #64ffda, #00bfa5);
+        }
+
+        .progress-fill.yellow {
+            background: linear-gradient(90deg, #ffd93d, #f0a500);
+        }
+
+        .progress-fill.red {
+            background: linear-gradient(90deg, #e94560, #c23152);
+        }
+
+        /* Analysis Section */
+        .analysis-section {
+            padding: 0 40px 40px;
+        }
+
+        .analysis-section h2 {
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #8892b0;
+            margin-bottom: 20px;
+        }
+
+        .analysis-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .analysis-card {
+            background: linear-gradient(145deg, #1a1a2e, #16213e);
+            border: 1px solid #233554;
+            border-radius: 12px;
+            padding: 24px;
+        }
+
+        .analysis-card h3 {
+            font-size: 15px;
+            font-weight: 600;
+            color: #e94560;
+            margin-bottom: 14px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .analysis-card ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .analysis-card li {
+            font-size: 14px;
+            color: #a8b2d1;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(35, 53, 84, 0.5);
+            line-height: 1.6;
+        }
+
+        .analysis-card li:last-child {
+            border-bottom: none;
+        }
+
+        .analysis-card li strong {
+            color: #ccd6f6;
+        }
+
+        /* Status Badge */
+        .status-not-delivering {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: rgba(233, 69, 96, 0.1);
+            color: #e94560;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #e94560;
+        }
+
+        /* Footer */
+        .footer {
+            padding: 20px 40px;
+            border-top: 1px solid #233554;
+            text-align: center;
+            color: #8892b0;
+            font-size: 12px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header, .kpi-section, .criteria-section, .ads-section, .analysis-section, .footer {
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+
+            .kpi-value {
+                font-size: 24px;
+            }
+
+            .brand h1 {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- HEADER -->
+    <div class="header">
+        <div class="header-top">
+            <div class="brand">
+                <div class="brand-icon">LF</div>
+                <div>
+                    <h1>LYVA FIT</h1>
+                    <span>MODA FITNESS &bull; DASHBOARD DE ANUNCIOS</span>
+                </div>
+            </div>
+            <div style="display:flex; align-items:center; gap:12px; flex-wrap:wrap;">
+                <span class="status-not-delivering"><span class="status-dot"></span> Campanha pausada</span>
+                <div class="period-badge">14 abr &mdash; 19 abr 2026</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- KPIs GERAIS -->
+    <div class="kpi-section">
+        <h2>Visao Geral da Conta</h2>
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-label">Investimento Total</div>
+                <div class="kpi-value">R$ 65,79</div>
+                <div class="kpi-sub">Orcamento diario: R$ 14,00</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Conversas Iniciadas</div>
+                <div class="kpi-value">26</div>
+                <div class="kpi-sub">Meta Ads &rarr; Instagram DM</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Custo por Conversa</div>
+                <div class="kpi-value">R$ 2,53</div>
+                <div class="kpi-sub">Abaixo de R$ 3,00 &mdash; bom</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Impressoes</div>
+                <div class="kpi-value">6.575</div>
+                <div class="kpi-sub">CPM: R$ 10,01</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Alcance</div>
+                <div class="kpi-value">4.080</div>
+                <div class="kpi-sub">Frequencia: 1,61x</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-label">Taxa de Resultado</div>
+                <div class="kpi-value">0,40%</div>
+                <div class="kpi-sub warn">Conversas / Impressoes</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- CRITERIOS DE CORTE -->
+    <div class="criteria-section">
+        <h2>Criterios de Corte (Benchmarks Mensagens - Moda Fitness)</h2>
+        <div class="criteria-grid">
+            <div class="criteria-card pass">
+                <div class="criteria-info">
+                    <span class="criteria-name">Custo por Conversa</span>
+                    <span class="criteria-rule">Meta: &le; R$ 3,50 | Atual: R$ 2,53</span>
+                </div>
+                <span class="criteria-status pass">APROVADO</span>
+            </div>
+            <div class="criteria-card pass">
+                <div class="criteria-info">
+                    <span class="criteria-name">Volume de Conversas</span>
+                    <span class="criteria-rule">Meta: &ge; 15 no periodo | Atual: 26</span>
+                </div>
+                <span class="criteria-status pass">APROVADO</span>
+            </div>
+            <div class="criteria-card pass">
+                <div class="criteria-info">
+                    <span class="criteria-name">CPM (Custo por Mil)</span>
+                    <span class="criteria-rule">Meta: &le; R$ 15,00 | Atual: R$ 10,01</span>
+                </div>
+                <span class="criteria-status pass">APROVADO</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- RANKING DE ANUNCIOS -->
+    <div class="ads-section">
+        <h2>Ranking de Anuncios (por volume de resultado)</h2>
+
+        <!-- Ad 1 -->
+        <div class="ad-card">
+            <div class="ad-card-header">
+                <div class="ad-name-block">
+                    <h3>#1 &mdash; VIDEO1 | GERAL | NARRACAO | 04-2026</h3>
+                    <span class="ad-set-name">FRIO | LAL 1% SITE | INSTAGRAM | MENSAGENS (2)</span>
+                </div>
+                <div class="ad-badge approved">APROVADO</div>
+            </div>
+            <div class="ad-metrics">
+                <div class="ad-metric">
+                    <div class="ad-metric-label">Resultados</div>
+                    <div class="ad-metric-value highlight">26</div>
+                </div>
+                <div class="ad-metric">
+                    <div class="ad-metric-label">Custo/Resultado</div>
+                    <div class="ad-metric-value highlight">R$ 2,53</div>
+                </div>
+                <div class="ad-metric">
+                    <div class="ad-metric-label">Investido</div>
+                    <div class="ad-metric-value">R$ 65,79</div>
+                </div>
+                <div class="ad-metric">
+                    <div class="ad-metric-label">Impressoes</div>
+                    <div class="ad-metric-value">6.575</div>
+                </div>
+                <div class="ad-metric">
+                    <div class="ad-metric-label">Alcance</div>
+                    <div class="ad-metric-value">4.080</div>
+                </div>
+                <div class="ad-metric">
+                    <div class="ad-metric-label">CPM</div>
+                    <div class="ad-metric-value">R$ 10,01</div>
+                </div>
+            </div>
+
+            <!-- Progress Bars -->
+            <div class="ad-progress-section">
+                <div class="progress-item">
+                    <div class="progress-header">
+                        <span class="progress-label">Custo/Conversa vs Meta (R$ 3,50)</span>
+                        <span class="progress-value">R$ 2,53 (72% do limite)</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill green" style="width: 72%"></div>
+                    </div>
+                </div>
+                <div class="progress-item">
+                    <div class="progress-header">
+                        <span class="progress-label">Volume vs Meta (15 conversas)</span>
+                        <span class="progress-value">26 conversas (173%)</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill green" style="width: 100%"></div>
+                    </div>
+                </div>
+                <div class="progress-item">
+                    <div class="progress-header">
+                        <span class="progress-label">CPM vs Meta (R$ 15,00)</span>
+                        <span class="progress-value">R$ 10,01 (67% do limite)</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill green" style="width: 67%"></div>
+                    </div>
+                </div>
+                <div class="progress-item">
+                    <div class="progress-header">
+                        <span class="progress-label">Uso do Orcamento (6 dias x R$ 14 = R$ 84)</span>
+                        <span class="progress-value">R$ 65,79 (78,3%)</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-fill yellow" style="width: 78.3%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ANALISE ESTRATEGICA -->
+    <div class="analysis-section">
+        <h2>Analise Estrategica</h2>
+        <div class="analysis-grid">
+            <div class="analysis-card">
+                <h3>&#9889; Pontos Fortes</h3>
+                <ul>
+                    <li><strong>CPR excelente (R$ 2,53):</strong> Bem abaixo do benchmark de R$ 3,50 para campanhas de mensagens no nicho fitness. O criativo esta convertendo bem.</li>
+                    <li><strong>Volume solido:</strong> 26 conversas em 6 dias com apenas R$ 14/dia mostra eficiencia. Media de 4,3 conversas/dia.</li>
+                    <li><strong>CPM competitivo (R$ 10,01):</strong> O leilao esta favoravel para esse publico LAL 1%.</li>
+                    <li><strong>Frequencia saudavel (1,61x):</strong> Sem fadiga de criativo, o publico nao esta saturado.</li>
+                </ul>
+            </div>
+            <div class="analysis-card">
+                <h3>&#9888;&#65039; Pontos de Atencao</h3>
+                <ul>
+                    <li><strong>Campanha pausada:</strong> O anuncio esta com status "not_delivering". Verificar se foi pausado manualmente ou por limite de orcamento.</li>
+                    <li><strong>Orcamento sub-utilizado:</strong> Gastou R$ 65,79 de R$ 84 possiveis (78%). Pode indicar limitacao de entrega no publico.</li>
+                    <li><strong>Apenas 1 criativo ativo:</strong> Sem variacao de anuncio nao ha como testar e otimizar. Risco de fadiga futura.</li>
+                    <li><strong>Taxa de resultado (0,40%):</strong> Dentro do aceitavel, mas ha espaco para melhorar com novos criativos.</li>
+                </ul>
+            </div>
+            <div class="analysis-card">
+                <h3>&#127919; Recomendacoes</h3>
+                <ul>
+                    <li><strong>Reativar o anuncio:</strong> Performance esta boa, nao ha motivo para manter pausado.</li>
+                    <li><strong>Escalar orcamento gradualmente:</strong> Subir de R$ 14 para R$ 21/dia (+50%) e monitorar CPR por 3 dias.</li>
+                    <li><strong>Criar 2-3 variacoes de criativo:</strong> Testar diferentes hooks, formatos (carrossel, imagem estatica) e angulos de copy.</li>
+                    <li><strong>Testar novos publicos:</strong> Duplicar o conjunto para LAL 2% e interesse em moda fitness para comparar.</li>
+                </ul>
+            </div>
+            <div class="analysis-card">
+                <h3>&#128200; Projecao (se escalar)</h3>
+                <ul>
+                    <li><strong>Orcamento R$ 21/dia:</strong> ~8-9 conversas/dia | ~56-63 conversas/semana</li>
+                    <li><strong>Orcamento R$ 30/dia:</strong> ~11-12 conversas/dia | ~77-84 conversas/semana</li>
+                    <li><strong>Custo estimado semanal:</strong> R$ 147 a R$ 210 mantendo CPR atual</li>
+                    <li><strong>Nota:</strong> Projecoes assumem que o CPR se mantem. Escalar acima de 2x pode aumentar o CPR em 15-30%.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+        LYVA FIT &bull; Relatorio gerado em 20/04/2026 &bull; Dados: Meta Ads Manager &bull; Periodo: 14/04 a 19/04/2026
+    </div>
+
+</body>
+</html>
